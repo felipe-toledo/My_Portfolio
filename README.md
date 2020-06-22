@@ -26,10 +26,9 @@ Native Portuguese, fluent in English and Spanish.
 ## Projects:
 Read the tutorials published here:
 
-* **[https://bit.ly/2VaukLT](https://bit.ly/2VaukLT)
+* **[Airbnb data analytics and data visualization in London](https://bit.ly/2VaukLT)
 
 ---
-
 
 
 
