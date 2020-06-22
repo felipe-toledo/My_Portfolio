@@ -26,7 +26,7 @@ Native Portuguese, fluent in English and Spanish.
 ## Projects:
 Read the tutorials published here:
 
-* **Data Science: Investigando o....
+* **[https://bit.ly/2VaukLT](https://bit.ly/2VaukLT)
 
 ---
 
